@@ -10,3 +10,4 @@ transformers
 xgboost
 scipy
 imbalanced-learn
+wordcloud
