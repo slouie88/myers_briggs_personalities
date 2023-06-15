@@ -11,3 +11,4 @@ xgboost
 scipy
 imbalanced-learn
 wordcloud
+gensim
