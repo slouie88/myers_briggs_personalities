@@ -12,3 +12,4 @@ scipy
 imbalanced-learn
 wordcloud
 gensim
+keras_tuner
