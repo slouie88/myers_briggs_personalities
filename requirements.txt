@@ -4,12 +4,12 @@ pandas
 seaborn
 matplotlib
 scikit-learn
-tensorflow
 nltk
-transformers
 xgboost
 scipy
 imbalanced-learn
 wordcloud
 gensim
+tensorflow<2.11
+keras
 keras_tuner
