@@ -131,3 +131,6 @@ dmypy.json
 
 # csv data that should not be pushed
 mbti_2.csv
+
+# Ignore files for hyperparameter tuning
+/hyperparam search
